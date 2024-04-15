@@ -1,12 +1,8 @@
 print("Codigo gabriel")
 print("Codigo Diego")
 
-# tablas de multiplicar
-for i in range(1,11):
-    print(f"{8} X {i} = {8*i}")
-for i in range(1,11):
-    print(f"{25}X{i}={25*i}")
-for i in range (1,11):
-    print(f"5 x {i} = {5*i}")
-for x in range(1,11):
-    print(f"7 x {x} = {7*x}")
+# dannyarreaga236
+print('Escuchar musica')
+print('Manejar en carretera')
+print('Ver series y videos tech')
+print('Jugar videojuegos')
