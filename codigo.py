@@ -1,1 +1,2 @@
-print("Codigo colaborativo")
+print("Codigo gabriel")
+print("Codigo Diego")
