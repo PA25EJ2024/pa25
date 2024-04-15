@@ -2,12 +2,22 @@ print("Codigo gabriel")
 print("Codigo Diego")
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #DiegooRamirez
 print("Escuchar musica")
 print("Ver peliculas")
 print("Jugar videojuegos")
 print("Salir a caminar")
 =======
+=======
+
+# Daniel Salazar
+print("Tocar el bajo")
+print("Escuchar musica")
+print("Usar Linux")
+print("Ver peliculas")
+
+>>>>>>> 4f535ac73335f9b819f83faf598a1114b332f77d
 # tablas de multiplicar
 for i in range(1,11):
     print(f"{8} X {i} = {8*i}")
