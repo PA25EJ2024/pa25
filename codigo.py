@@ -21,10 +21,8 @@ for x in range(1,11):
 #FranciscoHuertaK
 print("Navegar el internet")
 print("Jugar videojuegos")
-
-
-
-
+print("Tomar agua")
+print("Respirar")
 
 #MrRobis
 print("Manejar en Simuladores")
