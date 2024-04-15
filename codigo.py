@@ -14,3 +14,13 @@ for x in range(1,11):
 #FranciscoHuertaK
 print("Navegar el internet")
 print("Jugar videojuegos")
+
+
+
+
+
+#MrRobis
+print("Manejar en Simuladores")
+print("Jugar VIdeojuegos")
+print("ir al Gimnasio")
+print("Patinar en Skate")
