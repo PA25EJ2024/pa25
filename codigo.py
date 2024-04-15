@@ -13,6 +13,12 @@ print("Escuchar musica")
 print("Usar Linux")
 print("Ver peliculas")
 
+#DiegooRamirez
+print("Escuchar musica")
+print("Ver peliculas")
+print("Jugar videojuegos")
+print("Salir a caminar")
+
 #FranciscoHuertaK
 print("Navegar el internet")
 print("Jugar videojuegos")
